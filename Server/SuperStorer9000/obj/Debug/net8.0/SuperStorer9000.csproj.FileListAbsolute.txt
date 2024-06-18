@@ -26,3 +26,4 @@ C:\Users\monst\source\repos\SuperStorer9000\Server\SuperStorer9000\obj\Debug\net
 C:\Users\monst\source\repos\SuperStorer9000\Server\SuperStorer9000\obj\Debug\net8.0\SuperStorer9000.pdb
 C:\Users\monst\source\repos\SuperStorer9000\Server\SuperStorer9000\obj\Debug\net8.0\SuperStorer9000.genruntimeconfig.cache
 C:\Users\monst\source\repos\SuperStorer9000\Server\SuperStorer9000\obj\Debug\net8.0\ref\SuperStorer9000.dll
+C:\Users\monst\source\repos\SuperStorer9000\Server\SuperStorer9000\obj\Debug\net8.0\SuperStorer9000.sourcelink.json
